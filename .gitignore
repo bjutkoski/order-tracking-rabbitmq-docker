@@ -1,0 +1,4 @@
+.idea
+.vscode
+rabbitmq_data
+.DS_Store
